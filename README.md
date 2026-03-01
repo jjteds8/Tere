@@ -1,4 +1,3 @@
-
 ---
 
 ## 📘 System Documentation: IoT Drinking Well Monitor
